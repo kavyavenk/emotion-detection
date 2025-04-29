@@ -5,7 +5,7 @@ Emotion Detection in Text using Natural Language Processing
 
 We are using the Google GoEmotions Dataset 
 
-<insert bio here>
+\( insert bio here !! \)
 
 Kavya Venkatesh
 Rhea Sacheti
