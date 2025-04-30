@@ -9,11 +9,12 @@ We are using the Google GoEmotions Dataset
 
 
 ## Project Files
-- **`Baselines/`**:
-  - 
+- **`baselines/`**:
+  - **`majority.py/`**: 
+  - **`tfdif_logreg.py/`**: 
 
-- **`Models/`**: 
-  - **`Emotion-detector-bert.ipynb/`**: Fine-tuned BERT model
+- **`models/`**: 
+  - **`Emotion_detector_BERT.ipynb/`**: Fine-tuned BERT model
 - 
 
 ## Group Member
