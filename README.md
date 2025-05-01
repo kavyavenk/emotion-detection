@@ -5,8 +5,6 @@ Emotion Detection in Text using Natural Language Processing
 
 We are using the Google GoEmotions Dataset. Link: https://huggingface.co/datasets/google-research-datasets/go_emotions
 
-\( insert bio here !! \)
-
 
 ## Project Files
 - **`baselines/`**:
