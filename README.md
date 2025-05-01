@@ -18,7 +18,7 @@ We are using the Google GoEmotions Dataset. Link: https://huggingface.co/dataset
   - **`Emotion_detector_BERT_outputs.pdf/`**: Outputs of running Emotion_detector_BERT.ipynb; including evaluating metrics: loss, accuracy, precision, recall and F1 score for reference.
 - 
 
-## Group Member
+## Group Members
 - Kavya Venkatesh
 - Rhea Sacheti
 - Xiwen Zhang
