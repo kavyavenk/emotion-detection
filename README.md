@@ -8,8 +8,8 @@ We are using the Google GoEmotions Dataset. Link: https://huggingface.co/dataset
 
 ## Project Files
 - **`baselines/`**:
-  - **`majority.py/`**: 
-  - **`tfdif_logreg.py/`**: 
+  - **`majority.py/`**: Majority Class Classifier
+  - **`tfdif_logreg.py/`**: TF-IDF + Logistic Regression
 
 - **`models/`**: 
   - **`Emotion_detector_BERT.ipynb/`**: Fine-tuned BERT model
